@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: What is Artificial Intelligence and how is it influencing the decision making process? What must be understood about artificial intelligence in order to examine how this form of technology is providing businesses with a tool to understand human decisions? These are the sorts of things that I will explore more deeply in this piece.
-datePublished: '2016-03-22T19:48:26.431Z'
-dateModified: '2016-03-22T19:47:54.722Z'
+datePublished: '2016-03-22T19:49:09.669Z'
+dateModified: '2016-03-22T19:49:00.595Z'
 title: 'Artificial Intelligence (AI): How are intelligent technologies predicting decisions?'
 author: []
+sourcePath: _posts/2016-03-22-artificial-intelligence-ai-how-are-intelligent-technologi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-artificial-intelligence-ai-how-are-intelligent-technologi.md
-published: true
 url: artificial-intelligence-ai-how-are-intelligent-technologi/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e8569b5-98ed-4bf4-841b-a89e511e24d3.jpg)
+
 # Artificial Intelligence (AI): How are intelligent technologies predicting decisions?
 
 _What is Artificial Intelligence and how is it influencing the decision making process? What must be understood about artificial intelligence in order to examine how this form of technology is providing businesses with a tool to understand human decisions? These are the sorts of things that I will explore more deeply in this piece._
